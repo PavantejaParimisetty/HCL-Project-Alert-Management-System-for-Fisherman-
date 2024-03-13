@@ -1,1 +1,1 @@
-# HCL-Project-Alert-Mnagement-System-for-Fisherman-
+# HCL-Project-Alert-Management-System-for-Fisherman-
